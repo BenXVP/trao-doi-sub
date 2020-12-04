@@ -6,6 +6,7 @@ Chúng ta cần phải đăng ký một cái tài khoản TDS nhé, các bạn v
 - Nhắc lại mật khẩu (Nhập lại cái mật khẩu mà bạn đã nhập vào ở khung Mật khẩu vào nhé).
 Và sau đó nhấn nút đăng ký. Quá trình đăng ký tài khoản sẽ diễn ra một cách tự động, các bạn đợi nó tạo xong tài khoản rồi đi tới đăng nhập với thông tin đã tạo ở bên trên phần đăng ký là thành công xong bước 1.
 - Xác nhận Tôi không phải là ROBOT. Sau đó nhấn nút Đăng ký.
+
 **Bước 2**: <br />
 Đây chính là một trong những bước quan trọng nhất trong quá trình làm - cấu hình tài khoản TDS cũng như tài khoản Facebook. Ở đây các bạn làm theo các bước sau: <br />
 - Nhấn vào phần Cấu hình ở phía bên trái màn hình (Đối với máy tính) hoặn nhấn vào Ba dấu gạch ngang (Phía bên phải màn hình) => Cấu hình (Đối với điện thoại).
