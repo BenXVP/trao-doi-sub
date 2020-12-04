@@ -15,5 +15,6 @@ Và sau đó nhấn nút đăng ký. Quá trình đăng ký tài khoản sẽ di
 - Có trên 30 bạn bè.
 - Avatar cũ nhất đăng trên 14 ngày.
 - Tham gia 5 nhóm trở lên.
+- Tài khoản trên 19 tuổi.
 
-Khi và chỉ khi đủ những điều kiện này các bạn mới có thể dùng trên hệ thống TDS.
+### Khi và chỉ khi đủ những điều kiện này các bạn mới có thể dùng trên hệ thống TDS.
