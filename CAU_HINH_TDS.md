@@ -19,3 +19,4 @@ Và sau đó nhấn nút đăng ký. Quá trình đăng ký tài khoản sẽ di
 
 ### Khi và chỉ khi đủ những điều kiện này các bạn mới có thể dùng trên hệ thống TDS.
 Sau đó nhấn vào nút Thêm.
+## Đó là đã xong phần cấu hình tài khoản trong TDS. Các bạn cứ làm theo hướng dẫn trong này là cấu hình được nhé. Cảm ơn đã đọc.
