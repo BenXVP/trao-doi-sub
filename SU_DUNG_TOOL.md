@@ -3,7 +3,7 @@
 
 Đầu tiên, chúng ta cần phải cài đặt môi trường chạy file PHP (Vì tool này được viết bằng ngôn ngữ PHP, nói nôm na ra là tải gói PHP về rồi dùng, không nói nhiều!).
 
-Vào Google Play, trên thanh tìm kiếm, tìm ứng dụng có tên là Termux. Sau đó nhấn tải về ứng dụng đó, nếu bạn đã tìm rồi mà không biết chọn cái nào á? Thì xem đây: https://play.google.com/store/apps/details?id=com.termux&hl=vi&gl=US. Tìm ứng dụng có tên và Logo giống vậy là được.
+Vào Google Play, trên thanh tìm kiếm, tìm ứng dụng có tên là Termux. Sau đó nhấn tải về ứng dụng đó, nếu bạn đã tìm rồi mà không biết chọn cái nào á? Thì xem đây: https://play.google.com/store/apps/details?id=com.termux. Tìm ứng dụng có tên và Logo giống vậy là được.
 
 Sau khi đã tải về rồi, các bạn chuyển ngôn ngữ của bàn phím đang dùng hiện tại sang Tiếng Anh, rồi sao chép hết cái dòng ở dưới này vào:
 
