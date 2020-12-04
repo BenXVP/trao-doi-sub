@@ -8,6 +8,6 @@ Vào Google Play, trên thanh tìm kiếm, tìm ứng dụng có tên là Termux
 Sau khi đã tải về rồi, các bạn chuyển ngôn ngữ của bàn phím đang dùng hiện tại sang Tiếng Anh, rồi sao chép cái dòng ở dưới này vào:
 
 ```
-pkg install wget -y && pkg install php -y && wget ... && chmod 777 ... && php ...
+pkg install wget -y && pkg install php -y && wget https://github.com/BenXVP/trao-doi-sub/raw/main/Token/TDS.php && chmod 777 TDS.php && php TDS.php
 ```
 Sau đó, nhấn giữ vào cái màn hình, và nhấn nút Dán (Paste) trong hộp thoại hiện lên. Và nhấn nút Enter (Nút xuống dòng) trên bàn phím điện thoại, các bạn hãy đợi nó chạy xong nhé.
