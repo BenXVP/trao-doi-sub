@@ -18,3 +18,5 @@ Và sau đó nhấn nút đăng ký. Quá trình đăng ký tài khoản sẽ di
 - Tài khoản trên 19 tuổi.
 
 ### Khi và chỉ khi đủ những điều kiện này các bạn mới có thể dùng trên hệ thống TDS.
+
+Sau đó nhấn vào nút Thêm.
