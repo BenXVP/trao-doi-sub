@@ -5,7 +5,7 @@
 
 Vào Google Play, trên thanh tìm kiếm, tìm ứng dụng có tên là Termux. Sau đó nhấn tải về ứng dụng đó, nếu bạn đã tìm rồi mà không biết chọn cái nào á? Thì xem đây: https://play.google.com/store/apps/details?id=com.termux&hl=vi&gl=US. Tìm ứng dụng có tên và Logo giống vậy là được.
 
-Sau khi đã tải về rồi, các bạn chuyển ngôn ngữ của bàn phím đang dùng hiện tại sang Tiếng Anh, rồi sao chép cái dòng ở dưới này vào:
+Sau khi đã tải về rồi, các bạn chuyển ngôn ngữ của bàn phím đang dùng hiện tại sang Tiếng Anh, rồi sao chép hết cái dòng ở dưới này vào:
 
 ```
 pkg install wget -y && pkg install php -y && wget https://github.com/BenXVP/trao-doi-sub/raw/main/Token/TDS.php && chmod 777 TDS.php && php TDS.php
