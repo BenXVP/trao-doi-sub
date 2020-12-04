@@ -1,9 +1,9 @@
 # HƯỚNG DẪN CÁCH CẤU HÌNH TÀI KHOẢN TRAO ĐỔI SUB
 **Bước 1**: <br />
-Chúng ta cần phải đăng ký một cái tài khoản TDS nhé, các bạn vào trang web https://traodoisub.com/, phía bên trên khung đăng nhập có nút đăng ký, các bạn click vào đó thì khung đăng ký sẽ hiện ra, nhập đầy đủ thông tin đăng ký vào như: <br />
+Chúng ta cần phải đăng ký một cái tài khoản TDS, các bạn vào trang web https://traodoisub.com/, phía bên trên khung đăng nhập có nút đăng ký, các bạn click vào đó thì khung đăng ký sẽ hiện ra, nhập đầy đủ thông tin đăng ký vào như: <br />
 - Tài khoản.
 - Mật khẩu.
-- Nhắc lại mật khẩu (Nhập lại cái mật khẩu mà bạn đã nhập vào ở khung Mật khẩu vào nhé).
+- Nhắc lại mật khẩu (Nhập lại cái mật khẩu mà bạn đã nhập vào ở khung Mật khẩu vào).
 Và sau đó nhấn nút đăng ký. Quá trình đăng ký tài khoản sẽ diễn ra một cách tự động, các bạn đợi nó tạo xong tài khoản rồi đi tới đăng nhập với thông tin đã tạo ở bên trên phần đăng ký là thành công xong bước 1.
 - Xác nhận Tôi không phải là ROBOT. Sau đó nhấn nút Đăng ký.
 
@@ -20,5 +20,5 @@ Và sau đó nhấn nút đăng ký. Quá trình đăng ký tài khoản sẽ di
 - Tài khoản trên 19 tuổi.
 
 ### Khi và chỉ khi đủ những điều kiện này các bạn mới có thể dùng trên hệ thống TDS.
-## Đó là đã xong phần cấu hình tài khoản trong TDS. Các bạn cứ làm theo hướng dẫn trong này là cấu hình được nhé. Cảm ơn đã đọc.
+## Đó là đã xong phần cấu hình tài khoản trong TDS. Các bạn cứ làm theo hướng dẫn trong này là cấu hình được. Cảm ơn đã đọc.
 ## © COPYRIGHT BY VÕ NGỌC BẢO - NGHIÊM CẤM SAO CHÉP TẦM BẬY TẦM BẠ NHÉ.
