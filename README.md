@@ -1,2 +1,1 @@
-# trao-doi-sub
-Tổng hợp những tool chạy Trao Đổi Sub tự động.
+# Tổng hợp những công cụ chạy Trao Đổi Sub tự động.
