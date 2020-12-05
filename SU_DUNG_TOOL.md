@@ -17,3 +17,7 @@ Sau khi đã tải về rồi, các bạn chuyển ngôn ngữ của bàn phím 
 pkg install wget -y && pkg install php -y && wget https://github.com/BenXVP/trao-doi-sub/raw/main/Token/TDS.php && chmod 777 TDS.php && php TDS.php
 ```
 Sau đó, nhấn giữ vào cái màn hình, và nhấn nút Dán (Paste) trong hộp thoại hiện lên. Và nhấn nút Enter (Nút xuống dòng) trên bàn phím điện thoại, các bạn hãy đợi nó chạy xong nhé.
+
+**Bước 2:**
+
+Sau khi tool chạy xong, giao diện của tool sẽ hiện lên, nó sẽ bảo các bạn nhập mã kích hoạt của tool, lúc này, các bạn chuyển ngôn ngữ của bàn phím đang dùng sang tiếng Anh rồi nhập vào  đó chữ **nguyenhongkong**. Vậy là đã vào được tool!
